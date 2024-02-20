@@ -4,9 +4,9 @@ Este repositório contém todos os exercícios que realizei durante o curso, org
 
 Conteúdo:
 
-Módulo 1:
+Módulo 1: Perspectivas de Carreira;
 
-Módulo 2:
+Módulo 2: Metodologia;
 
 Módulo 3: Elementos básicos de Python e Numpy;
 
