@@ -4,7 +4,8 @@ Este repositório contém todos os exercícios que realizei durante o curso, org
 
 Conteúdo:
 
-Módulo 1: Perspectivas de Carreira;
+Módulo 1: Perspectivas de Carreira; [Módulo 1: Perspectivas de Carreira](https://github.com/dslucascirilo/EBAC/tree/main/Data%20Science/Mo%CC%81dulo%2001%20-%20Perspectivas%20de%20Carreira)
+
 
 Módulo 2: Metodologia;
 
@@ -18,6 +19,7 @@ Módulo 6: Descritiva I
 
 Módulo 7: Árvores I
 
+Módulo 9: TdD III - Agregações e operações em grupos
 ...
 
 Recursos:
