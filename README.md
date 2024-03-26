@@ -18,6 +18,8 @@ Conteúdo:
 
 [Módulo 7: Árvores I](https://github.com/dslucascirilo/EBAC/tree/main/Data%20Science/M%C3%B3dulo%2007%20-%20%C3%81rvores%20I);
 
+[Módulo 08 - Git : GitHub - Controle de versionamento](https://github.com/dslucascirilo/EBAC/tree/main/Data%20Science/M%C3%B3dulo%2008%20-%20Git%20%3A%20GitHub%20-%20Controle%20de%20versionamento);
+
 [Módulo 9: TdD III - Agregações e operações em grupos](https://github.com/dslucascirilo/EBAC/tree/main/Data%20Science/M%C3%B3dulo%2009%20-%20TdD%20III%20-%20Agrega%C3%A7%C3%B5es%20e%20opera%C3%A7%C3%B5es%20em%20grupos);
 
 [Módulo 10: Descritiva II - Análise descritiva para resposta contínua](https://github.com/dslucascirilo/EBAC/tree/main/Data%20Science/M%C3%B3dulo%2010%20-%20Descritiva%20II%20-%20An%C3%A1lise%20descritiva%20para%20resposta%20cont%C3%ADnua)
